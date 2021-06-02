@@ -1,0 +1,10 @@
+# SCUT-ECE-courses
+(VHDL)[https://pan.baidu.com/s/10pHIKv2x9kabTDoiOmMY4g], 提取码：ouzz
+(半导体)[https://pan.baidu.com/s/1e6zt_gzIW7QQ6ayWTFnrJg], 提取码：5jc7
+(Verilog)[https://pan.baidu.com/s/1ZOzk81yDAbyTE2dMvonhAw], 提取码：g9op
+(微机)[https://pan.baidu.com/s/1nQ9M73ptHvNi1950AEAEAQ], 提取码：tmoi
+(通信原理)[https://pan.baidu.com/s/17nSd88hV4Fc55FfQR-yY5g], 提取码：z2hc
+(射频)[https://pan.baidu.com/s/1OXDQcz1FeNm61uT5ypyd5Q], 提取码：20ye
+(数字信号处理)[https://pan.baidu.com/s/1o4kz-KECaUyajUzYvi6hNw], 提取码：rffa
+(模拟集成电路)[https://pan.baidu.com/s/1E1l6YdOzILAt1ME9alS1CQ], 提取码：f7gt
+(数字集成电路)[https://pan.baidu.com/s/1yg7oc80Eyg4zCdxobcJZnw], 提取码：oyi1
